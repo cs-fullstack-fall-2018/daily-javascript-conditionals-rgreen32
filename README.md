@@ -1,6 +1,6 @@
 # Daily Question - JavaScript Conditionals/Equality
 
-You need to test the value of the following variable in JavaScript:
+Assume you need to test the value of the following variable in JavaScript:
 ```
 var length = "75";
 ```
